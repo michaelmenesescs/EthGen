@@ -1,0 +1,9 @@
+{
+    "Infura":{
+        "project-id" : "7b21b57322054a0794e69ea8da838c92",
+        "project-secret": "14fa1c7201e148df960e8dae254cbcff",
+        "mainnet": "https://mainnet.infura.io/v3/7b21b57322054a0794e69ea8da838c92"
+        
+    }
+}
+
