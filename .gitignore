@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+#credentials
+/api/infura.json
+
 # production
 /build
 
